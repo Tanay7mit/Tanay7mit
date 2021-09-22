@@ -1,8 +1,5 @@
 ### hello,folks 🌏
 <img src= "https://github.com/Tanay7mit/Tanay7mit/blob/main/githeader.gif" width="500"/>
-
-I'm Tanay Choubey, a Sopohmore pursuing Bachelors in Information technology. I am an enthusiastic person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.
-
 I'm a coder and occasional designer who loves making high-quality websites and applications **(see above😁)**. I'm a college student and I also love to explore new tech.
 
 <h3 align="center">trying to figure-out stuff!!</h3>
